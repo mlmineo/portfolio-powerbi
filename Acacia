@@ -22,12 +22,12 @@ Este proyecto muestra un análisis de contratación de los servicios que ofrece 
 ![Captura del dashboard](./imagenes/Acacia.png)
 
 ### 🎯 Objetivos
-- Seguimiento de ventas mensuales  
+- Seguimiento de ventas contrataciones mensuales y anuales
 - Comparación por región y categoría  
 - Ranking de clientes  
 
 ### 📂 Archivos
-- `dashboard_ventas.pbix` → archivo principal en Power BI  
+- `Acacia.pbix` → archivo principal en Power BI  
 - `ventas.csv` → dataset reducido de prueba  
 - `dashboard_ventas.pdf` → exportación en PDF  
 - `imagenes/Acacia.png` → captura del dashboard  
