@@ -3,10 +3,33 @@
 Este proyecto muestra un análisis de contratación de los servicios que ofrece Acacia, una empresa de diseño de paisajismo de la provincia de Mendoza.
 
 📊 Incluye:  
-- Ventas por categoría  
-- Ranking de clientes  
-- Evolución mensual y anual con KPIs  
+- Contratación por categoría:
+  a) Paisajismo base
+  b) Plantación
+  c) Diseño de riego
+  d) Instalación del sistema de riego
+  e) Paisajimmos
+  f) Colocación de césped
+  g) Mantenimiento
+  h) Paisajismo 3D
+  i) Proyecto de iluminación
+  j) Siembra
+- Ranking ¿Cómo consiguió al cliente?
+- Evolución gananacia anual, promedio y total en menses y años con KPIs  
 
 🔗 Acacia.pbix / https://drive.google.com/drive/u/0/folders/1sE_4-v1FN_aehdNlwEYrizZVT5OpGSRp
 
 ![Captura del dashboard](./imagenes/Acacia.png)
+
+### 🎯 Objetivos
+- Seguimiento de ventas mensuales  
+- Comparación por región y categoría  
+- Ranking de clientes  
+
+### 📂 Archivos
+- `dashboard_ventas.pbix` → archivo principal en Power BI  
+- `ventas.csv` → dataset reducido de prueba  
+- `dashboard_ventas.pdf` → exportación en PDF  
+- `imagenes/Acacia.png` → captura del dashboard  
+
+![Vista previa](./imagenes/acacia.png)
