@@ -1,6 +1,6 @@
 # Dashboard de Contratación de servicio - Power BI  
 
-Este proyecto muestra un análisis de contratación de los servicios que ofrece Acacia, una empresa de diseño de paisajismo de la provincia de Mendoza.
+Este proyecto muestra un análisis de contratación de los servicios que ofrece Acacia, empresa de diseño de paisajismo de la provincia de Mendoza.
 
 📊 Incluye:  
 - Contratación por categoría:
@@ -22,12 +22,12 @@ Este proyecto muestra un análisis de contratación de los servicios que ofrece 
 ![Captura del dashboard](./imagenes/Acacia.png)
 
 ### 🎯 Objetivos
-- Seguimiento de ventas contrataciones mensuales y anuales
+- Seguimiento de contrataciones de servicios, relevamientos y postventa
 - Comparación por región y categoría  
 - Ranking de clientes  
 
 ### 📂 Archivos
-- `Acacia.pbix` → archivo principal en Power BI  
+- acacia.pbix → archivo principal en Power BI  
 - `ventas.csv` → dataset reducido de prueba  
 - `dashboard_ventas.pdf` → exportación en PDF  
 - `imagenes/Acacia.png` → captura del dashboard  
