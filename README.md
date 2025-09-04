@@ -4,6 +4,12 @@ Bienvenido a mi portfolio de proyectos en **Power BI**.
 Aquí muestro cómo utilizo el análisis de datos para crear **dashboards interactivos con KPIs estratégicos**.  
 
 ---
+portfolio-powerbi/
+│
+├── imagenes/
+│   └── Acacia.png
+│
+└── README.md
 
 ## 📂 Índice de proyectos  
 
