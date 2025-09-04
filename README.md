@@ -13,7 +13,7 @@ Dashboard con indicadores comerciales:
 - Como conseguí los clientes
 - Comparación por región y categoría  
 
-![Vista previa Ventas](./acacia.png)  
+![Vista previa Ventas](./Acacia.png)  
 
 ---
 
